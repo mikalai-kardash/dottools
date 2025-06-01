@@ -18,7 +18,8 @@ brew install \
     semgrep \
     llvm \
     zig \
-    zls
+    zls \
+    s3cmd
 
 
 
